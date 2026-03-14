@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="PersonalFinanceAPI.AppHost/PersonalFinanceAPI.AppHost.csproj" />
-  <Project Path="PersonalFinanceAPI.ServiceDefaults/PersonalFinanceAPI.ServiceDefaults.csproj" />
-  <Project Path="PersonalFinanceAPI/PersonalFinanceAPI.csproj" />
-</Solution>
