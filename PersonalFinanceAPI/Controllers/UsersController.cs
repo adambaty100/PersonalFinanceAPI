@@ -1,11 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using PersonalFinanceAPI.Data;
+using PersonalFinanceAPI.DTO;
 using PersonalFinanceAPI.Models;
 
 namespace PersonalFinanceAPI.Controllers
 {
     [ApiController]
-    [Route("v1/[controller]")]
+    [Route("api/v1/[controller]")]
     public class UsersController : ControllerBase
     {
         private readonly PersonalFinanceContext _context;
@@ -18,7 +20,7 @@ namespace PersonalFinanceAPI.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetUserById([FromRoute] Guid id)
         {
-            var user = _context.Users.FirstOrDefault(x => x.Id == id);
+            var user = await _context.Users.FirstOrDefaultAsync(x => x.Id == id);
 
             return Ok(user);
         }
@@ -26,54 +28,54 @@ namespace PersonalFinanceAPI.Controllers
         [HttpGet("")]
         public async Task<IActionResult> GetAllUsers()
         {
-            try
-            {
-                var allUsers = _context.Users.ToArray();
+            var allUsers = await _context.Users.ToArrayAsync();
 
-                return Ok(allUsers);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            return Ok(allUsers);
         }
 
         [HttpPost("")]
-        public async Task<IActionResult> CreateUser(PostUsersRequest user)
+        public async Task<IActionResult> CreateUser([FromBody] UsersDTO user)
         {
-            try
+            var userToCreate = new Users()
             {
-                var userToCreate = new Users()
-                {
-                    Id = Guid.NewGuid(),
-                    Email = user.Email,
-                    FirstName = user.FirstName,
-                    LastName = user.LastName,
-                    CreatedAt = DateTime.UtcNow
-                };
-                _context.Users.Add(userToCreate);
-                _context.SaveChanges();
+                Id = Guid.NewGuid(),
+                Email = user.Email,
+                FirstName = user.FirstName,
+                LastName = user.LastName,
+                CreatedAt = DateTime.UtcNow
+            };
 
-                return Ok(userToCreate);
-            }
-            catch (Exception ex)
-            {
-                return BadRequest(ex.Message);
-            }
+            await _context.Users.AddAsync(userToCreate);
+            await _context.SaveChangesAsync();
+
+            return Ok(userToCreate);
         }
 
-        // Update user
-        // PATCH /user/{id}
+        [HttpPatch("{id}")]
+        public async Task<IActionResult> UpdateUser(
+            [FromRoute] Guid id, 
+            [FromBody] UsersDTO user)
+        {
+            var foundUser = await _context.Users.FirstOrDefaultAsync(u => u.Id == id);
 
+            if (foundUser == null)
+                return NotFound();
 
-        // DELETE /user/{id}
+            foundUser.Email = user.Email ?? foundUser.Email;
+            foundUser.FirstName = user.FirstName ?? foundUser.FirstName;
+            foundUser.LastName = user.LastName ?? foundUser.LastName;
+            foundUser.UpdatedAt = DateTime.UtcNow;
 
-    }
+            await _context.SaveChangesAsync();
 
-    public class PostUsersRequest
-    {
-        public required string Email { get; set; }
-        public required string FirstName { get; set; }
-        public required string LastName { get; set; }
+            return Ok(foundUser);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteUser([FromRoute] Guid id)
+        {
+            await _context.Users.Where(u => u.Id == id).ExecuteDeleteAsync();
+            return Ok();
+        }
     }
 }

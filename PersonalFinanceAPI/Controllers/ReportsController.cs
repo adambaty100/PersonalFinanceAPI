@@ -1,6 +1,10 @@
-﻿namespace PersonalFinanceAPI.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace PersonalFinanceAPI.Controllers
 {
-    public class ReportsController
+    [ApiController]
+    [Route("api/v1/[controller]")]
+    public class ReportsController : ControllerBase
     {
     }
 }
