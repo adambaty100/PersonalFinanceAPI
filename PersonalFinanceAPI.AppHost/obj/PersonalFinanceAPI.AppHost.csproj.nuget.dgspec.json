@@ -64,6 +64,10 @@
               "target": "Package",
               "version": "[13.1.0, )",
               "autoReferenced": true
+            },
+            "Scalar.Aspire": {
+              "target": "Package",
+              "version": "[0.9.8, )"
             }
           },
           "imports": [

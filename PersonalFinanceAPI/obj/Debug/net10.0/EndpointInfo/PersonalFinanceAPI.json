@@ -6,14 +6,37 @@
   },
   "servers": [
     {
-      "url": "https://localhost:59496"
+      "url": "https://localhost:61968"
     },
     {
-      "url": "http://localhost:59497"
+      "url": "http://localhost:61969"
     }
   ],
   "paths": {
-    "/users": {
+    "/v1/Users/{id}": {
+      "get": {
+        "tags": [
+          "Users"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/v1/Users": {
       "get": {
         "tags": [
           "Users"
@@ -23,43 +46,34 @@
             "description": "OK"
           }
         }
-      }
-    },
-    "/WeatherForecast": {
-      "get": {
+      },
+      "post": {
         "tags": [
-          "WeatherForecast"
+          "Users"
         ],
-        "operationId": "GetWeatherForecast",
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "type": "array",
-                  "items": {
-                    "$ref": "#/components/schemas/WeatherForecast"
-                  }
-                }
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PostUsersRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PostUsersRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/PostUsersRequest"
               }
             }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
           }
         }
       }
@@ -67,34 +81,22 @@
   },
   "components": {
     "schemas": {
-      "WeatherForecast": {
+      "PostUsersRequest": {
+        "required": [
+          "email",
+          "firstName",
+          "lastName"
+        ],
         "type": "object",
         "properties": {
-          "date": {
-            "type": "string",
-            "format": "date"
+          "email": {
+            "type": "string"
           },
-          "temperatureC": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
-            "format": "int32"
+          "firstName": {
+            "type": "string"
           },
-          "temperatureF": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
-            "format": "int32"
-          },
-          "summary": {
-            "type": [
-              "null",
-              "string"
-            ]
+          "lastName": {
+            "type": "string"
           }
         }
       }
@@ -103,9 +105,6 @@
   "tags": [
     {
       "name": "Users"
-    },
-    {
-      "name": "WeatherForecast"
     }
   ]
 }

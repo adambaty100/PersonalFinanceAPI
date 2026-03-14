@@ -26,7 +26,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PersonalFinanceAPI.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aff7412127b3a9e880da522a2015564659a0a8c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("PersonalFinanceAPI.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PersonalFinanceAPI.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

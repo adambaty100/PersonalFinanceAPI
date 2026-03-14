@@ -1221,6 +1221,22 @@
           }
         }
       },
+      "Scalar.Aspire/0.9.8": {
+        "type": "package",
+        "dependencies": {
+          "Aspire.Hosting": "13.1.0"
+        },
+        "compile": {
+          "lib/net10.0/Scalar.Aspire.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net10.0/Scalar.Aspire.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Semver/3.0.0": {
         "type": "package",
         "dependencies": {
@@ -3160,6 +3176,25 @@
         "polly.core.nuspec"
       ]
     },
+    "Scalar.Aspire/0.9.8": {
+      "sha512": "y+UAtgQEZj9FeX7xI0ZwT8vJmpj0/+zb/UgzYFK9Yy02bgN87v3XePlXAYg+/sgUkIf2Mme74dVgt5tYmxxrKA==",
+      "type": "package",
+      "path": "scalar.aspire/0.9.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net10.0/Scalar.Aspire.dll",
+        "lib/net10.0/Scalar.Aspire.xml",
+        "lib/net8.0/Scalar.Aspire.dll",
+        "lib/net8.0/Scalar.Aspire.xml",
+        "lib/net9.0/Scalar.Aspire.dll",
+        "lib/net9.0/Scalar.Aspire.xml",
+        "scalar.aspire.0.9.8.nupkg.sha512",
+        "scalar.aspire.nuspec"
+      ]
+    },
     "Semver/3.0.0": {
       "sha512": "9jZCicsVgTebqkAujRWtC9J1A5EQVlu0TVKHcgoCuv345ve5DYf4D1MjhKEnQjdRZo6x/vdv6QQrYFs7ilGzLA==",
       "type": "package",
@@ -3333,7 +3368,8 @@
     "net10.0": [
       "Aspire.Dashboard.Sdk.win-x64 >= 13.1.0",
       "Aspire.Hosting.AppHost >= 13.1.0",
-      "Aspire.Hosting.Orchestration.win-x64 >= 13.1.0"
+      "Aspire.Hosting.Orchestration.win-x64 >= 13.1.0",
+      "Scalar.Aspire >= 0.9.8"
     ]
   },
   "packageFolders": {
@@ -3400,6 +3436,10 @@
             "target": "Package",
             "version": "[13.1.0, )",
             "autoReferenced": true
+          },
+          "Scalar.Aspire": {
+            "target": "Package",
+            "version": "[0.9.8, )"
           }
         },
         "imports": [

@@ -96,3 +96,5 @@ C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\obj\De
 C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\obj\Debug\net10.0\PersonalFinanceAPI.AppHost.pdb
 C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\obj\Debug\net10.0\PersonalFinanceAPI.AppHost.genruntimeconfig.cache
 C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\obj\Debug\net10.0\ref\PersonalFinanceAPI.AppHost.dll
+C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\bin\Debug\net10.0\Scalar.Aspire.dll
+C:\Users\adamb\source\repos\PersonalFinanceAPI\PersonalFinanceAPI.AppHost\obj\Debug\net10.0\PersonalFinanceAPI.AppHost.sourcelink.json

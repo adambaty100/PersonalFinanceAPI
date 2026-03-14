@@ -3,36 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\data\\personalfinancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\data\\personalfinancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\personalfinanceapi.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{556E37BE-A393-449E-BE55-424087086B7F}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\personalfinanceapi.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FAD0D6B1-92EC-7E07-CCE9-A7B274EEC7E2}|PersonalFinanceAPI.ServiceDefaults\\PersonalFinanceAPI.ServiceDefaults.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FAD0D6B1-92EC-7E07-CCE9-A7B274EEC7E2}|PersonalFinanceAPI.ServiceDefaults\\PersonalFinanceAPI.ServiceDefaults.csproj|solutionrelative:personalfinanceapi.servicedefaults\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\personalfinanceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\personalfinanceapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\personalfinanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\personalfinanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\reportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\reportsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\budgetsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\budgetsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\budgetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\transactionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\transactionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\categoriesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\models\\accountsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\models\\accountsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BCBA238-AEB6-B5E4-2E73-7669BD809FD2}|PersonalFinanceAPI\\PersonalFinanceAPI.csproj|solutionrelative:personalfinanceapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|c:\\users\\adamb\\source\\repos\\personalfinanceapi\\personalfinanceapi.apphost\\personalfinanceapi.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1857205-2F9A-5C90-5C49-DC50332421BD}|PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj|solutionrelative:personalfinanceapi.apphost\\personalfinanceapi.apphost.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,96 +94,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersModel.cs",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\UsersModel.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\UsersModel.cs",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\UsersModel.cs",
-              "RelativeToolTip": "PersonalFinanceAPI\\Models\\UsersModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T20:13:28.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T20:13:20.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Dockerfile",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Dockerfile",
-              "RelativeToolTip": "PersonalFinanceAPI\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-13T20:09:33.3Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\appsettings.json",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\appsettings.json",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\appsettings.json",
-              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\appsettings.json",
+              "Title": "PersonalFinanceAPI.http",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\PersonalFinanceAPI.http",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\PersonalFinanceAPI.http",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\PersonalFinanceAPI.http",
+              "RelativeToolTip": "PersonalFinanceAPI\\PersonalFinanceAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-14T00:48:29.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\appsettings.json",
+              "RelativeToolTip": "PersonalFinanceAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-13T20:09:26.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PersonalFinanceAPI.AppHost",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
-              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-13T20:09:24.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\AppHost.cs",
-              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T20:09:18.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
-              "RelativeDocumentMoniker": "PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
-              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
-              "RelativeToolTip": "PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T20:09:04.413Z",
+              "WhenOpened": "2026-03-13T23:27:53.273Z",
               "EditorCaption": ""
             },
             {
@@ -142,9 +134,242 @@
               "RelativeDocumentMoniker": "PersonalFinanceAPI\\Program.cs",
               "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Program.cs",
               "RelativeToolTip": "PersonalFinanceAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-13T20:08:55.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalFinanceContext.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Data\\PersonalFinanceContext.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Data\\PersonalFinanceContext.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Data\\PersonalFinanceContext.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Data\\PersonalFinanceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T21:40:17.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:13:20.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppHost.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\AppHost.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\AppHost.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\AppHost.cs",
+              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\AppHost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:09:18.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
+              "RelativeToolTip": "PersonalFinanceAPI.ServiceDefaults\\Extensions.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:09:04.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\appsettings.json",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\appsettings.json",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\appsettings.json",
+              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T20:09:26.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\Users.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:13:28.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonalFinanceAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\PersonalFinanceAPI.csproj",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\PersonalFinanceAPI.csproj",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\PersonalFinanceAPI.csproj",
+              "RelativeToolTip": "PersonalFinanceAPI\\PersonalFinanceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T21:35:46.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:58.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportsModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\ReportsModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\ReportsModel.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\ReportsModel.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\ReportsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:53:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BudgetsModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\BudgetsModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\BudgetsModel.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\BudgetsModel.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\BudgetsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:46.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BudgetsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\BudgetsController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\BudgetsController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\BudgetsController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\BudgetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TransactionsModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\TransactionsModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\TransactionsModel.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\TransactionsModel.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\TransactionsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\CategoriesModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\CategoriesModel.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\CategoriesModel.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\CategoriesModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:52:06.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AccountsModel.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\AccountsModel.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Models\\AccountsModel.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Models\\AccountsModel.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Models\\AccountsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:44.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI\\Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "PersonalFinanceAPI\\Controllers\\AccountsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T20:51:36.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonalFinanceAPI.AppHost",
+              "DocumentMoniker": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
+              "RelativeDocumentMoniker": "PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
+              "ToolTip": "C:\\Users\\adamb\\source\\repos\\PersonalFinanceAPI\\PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
+              "RelativeToolTip": "PersonalFinanceAPI.AppHost\\PersonalFinanceAPI.AppHost.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T20:09:24.652Z",
               "EditorCaption": ""
             }
           ]
